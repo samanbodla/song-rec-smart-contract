@@ -1,6 +1,7 @@
 
-### This is the smart contract for the following song recommendation portal:
-https://github.com/samanbodla/song-rec-portal
+## Song Recommendation Smart Contract
+
+This is the smart contract for this [song recommendation portal](https://github.com/samanbodla/song-rec-portal)
 
 ### Description
 The contract contains three functions:
