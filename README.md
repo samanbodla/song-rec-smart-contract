@@ -9,7 +9,7 @@ The contract contains three functions:
  - GetAllEntries() which returns all the entries.
  - getEntries() which returns the number of entries.
  
- The development environment used is Hardhat. Alchemy was used to deploy to the Rinkeby test network. 
+ The development environment used is Hardhat. To deploy to the Rinkeby test network, Alchemy was used. 
 
 
 To test locally
